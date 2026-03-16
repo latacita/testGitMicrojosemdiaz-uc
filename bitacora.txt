@@ -33,3 +33,7 @@
                                     - se ha creado un pull request
 22     hemos creado calificacion.txt pero no hicimos commit - no hemos editado bitacora en 21
 23     actualizar la bitácora
+27     git merge RamaC              Como habíamos hecho commits salvo orden en contra
+                                    pues nos ha causado un conflicto
+                                    que hemos fusionado correctamente.
+                                    
