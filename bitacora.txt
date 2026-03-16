@@ -1,9 +1,20 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
-%%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%%========================================================          %%
+%% Alumno (Apellidos, Nombre):  + Díaz Cuevas, Alberto              %%
+%%                              + Díaz Pérez, Jose Manuel           %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
-12     git checkout master      
+1      git clone                    Acordarse de poner el . (punto)
+2      escribir el nombre ;-)      
+3      git commit                   La verdad, hemos ido haciendo commit a cada Paso
+4      git branch
+6      git checkout RamaA
+7      editar dirección (mal)
+8      git commit                   Hemos ido metiendo anteriormente paso a paso
+12     git checkout master     
+13     git merge                    Como hemos estado haciendo commits a bitacora
+                                    NO HA SIDO FASTFORWARD como hubiera debido
+                                    Sino que hemos tenido que mergear la bitácora
