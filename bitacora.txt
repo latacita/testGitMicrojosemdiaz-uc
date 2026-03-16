@@ -24,3 +24,5 @@
                                     Sino que hemos tenido que mergear la bitácora
 14     git merge                    Esta vez es recursiva COMO DEBIERA SER :-)
 15     commit
+16     git branch -m RamaC          Se hace el paso 17 a la vez
+17     ***                          Se hico con el 16
