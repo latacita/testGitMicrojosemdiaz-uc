@@ -13,3 +13,4 @@
 5      git branch Rama B            ¡no vemos el punto 4! - claro, porque está en otra Rama
 9      git checkout Rama B          Nos dice que master está más allá que nosotros en 4 commits
 10     corregir Cantabria           El fichero es nuevo, ponemos Cantabria
+11     commit                       Bueno, estamos haciendo commit cada vez, lo sabemos
