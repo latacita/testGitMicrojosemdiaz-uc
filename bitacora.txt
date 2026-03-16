@@ -13,3 +13,4 @@
 4      git branch
 6      git checkout RamaA
 7      editar dirección (mal)
+8      git commit                   Hemos ido metiendo anteriormente paso a paso
