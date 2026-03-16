@@ -1,8 +1,39 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
-%%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%%========================================================          %%
+%% Alumno (Apellidos, Nombre):  + Díaz Cuevas, Alberto              %%
+%%                              + Díaz Pérez, Jose Manuel           %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1      git clone                    Acordarse de poner el . (punto)
+2      escribir el nombre ;-)      
+3      git commit                   La verdad, hemos ido haciendo commit a cada Paso
+4      git branch
+5      git branch Rama B            ¡no vemos el punto 4! - claro, porque está en otra Rama
+6      git checkout RamaA
+7      editar dirección (mal)
+8      git commit                   Hemos ido metiendo anteriormente paso a paso
+9      git checkout Rama B          Nos dice que master está más allá que nosotros en 4 commits
+10     corregir Cantabria           El fichero es nuevo, ponemos Cantabria
+11     commit                       Bueno, estamos haciendo commit cada vez, lo sabemos
+12     git checkout master     
+13     git merge                    Como hemos estado haciendo commits a bitacora
+                                    NO HA SIDO FASTFORWARD como hubiera debido
+                                    Sino que hemos tenido que mergear la bitácora
+14     git merge                    Esta vez es recursiva COMO DEBIERA SER :-)
+15     commit
+16     git branch -m RamaC          Se hace el paso 17 a la vez
+17     ***                          Se hico con el 16
+18     Codigo Postal                *** nos dimos cuenta de que nos faltaba
+                                    *** el conflicto de Cantabria
+19     git branch RamaD             - se crea desde RamaC una RamaD - quedamos en RamaC
+       git push origin RamaD        - se crea el remoto RamaD
+                                    - se ha creado un pull request
+22     hemos creado calificacion.txt pero no hicimos commit - no hemos editado bitacora en 21
+23     actualizar la bitácora
+27     git merge RamaC              Como habíamos hecho commits salvo orden en contra
+                                    pues nos ha causado un conflicto
+                                    que hemos fusionado correctamente.
+                                    
