@@ -11,3 +11,4 @@
 2      escribir el nombre ;-)      
 3      git commit                   La verdad, hemos ido haciendo commit a cada Paso
 5      git branch Rama B            ¡no vemos el punto 4! - claro, porque está en otra Rama
+9      git checkout Rama B          Nos dice que master está más allá que nosotros en 4 commits
