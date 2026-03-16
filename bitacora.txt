@@ -9,4 +9,5 @@
 ====== ============================ ================================
 1      git clone                    Acordarse de poner el . (punto)
 2      escribir el nombre ;-)      
+3      git commit                   La verdad, hemos ido haciendo commit a cada Paso
 
