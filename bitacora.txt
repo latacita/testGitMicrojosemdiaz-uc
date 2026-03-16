@@ -6,3 +6,4 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1      git clone                    Acordarse de poner el . (punto)
