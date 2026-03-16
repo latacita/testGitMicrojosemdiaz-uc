@@ -11,10 +11,16 @@
 2      escribir el nombre ;-)      
 3      git commit                   La verdad, hemos ido haciendo commit a cada Paso
 4      git branch
+5      git branch Rama B            ¡no vemos el punto 4! - claro, porque está en otra Rama
 6      git checkout RamaA
 7      editar dirección (mal)
 8      git commit                   Hemos ido metiendo anteriormente paso a paso
+9      git checkout Rama B          Nos dice que master está más allá que nosotros en 4 commits
+10     corregir Cantabria           El fichero es nuevo, ponemos Cantabria
+11     commit                       Bueno, estamos haciendo commit cada vez, lo sabemos
 12     git checkout master     
 13     git merge                    Como hemos estado haciendo commits a bitacora
                                     NO HA SIDO FASTFORWARD como hubiera debido
                                     Sino que hemos tenido que mergear la bitácora
+14     git merge                    Esta vez es recursiva COMO DEBIERA SER :-)
+15     commit
