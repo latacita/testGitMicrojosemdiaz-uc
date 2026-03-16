@@ -11,3 +11,4 @@
 2      escribir el nombre ;-)      
 3      git commit                   La verdad, hemos ido haciendo commit a cada Paso
 4      git branch
+6      git checkout RamaA
