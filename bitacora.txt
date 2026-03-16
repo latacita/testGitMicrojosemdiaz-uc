@@ -28,4 +28,8 @@
 17     ***                          Se hico con el 16
 18     Codigo Postal                *** nos dimos cuenta de que nos faltaba
                                     *** el conflicto de Cantabria
- 
+19     git branch RamaD             - se crea desde RamaC una RamaD - quedamos en RamaC
+       git push origin RamaD        - se crea el remoto RamaD
+                                    - se ha creado un pull request
+22     hemos creado calificacion.txt pero no hicimos commit - no hemos editado bitacora en 21
+23     actualizar la bitácora
