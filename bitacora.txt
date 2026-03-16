@@ -12,3 +12,4 @@
 3      git commit                   La verdad, hemos ido haciendo commit a cada Paso
 4      git branch
 6      git checkout RamaA
+7      editar dirección (mal)
